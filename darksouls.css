@@ -1,0 +1,16 @@
+body{
+    background-color:slategrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    margin-top: 300px;
+    font-size: xx-large;
+    
+}
